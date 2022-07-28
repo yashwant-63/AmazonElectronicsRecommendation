@@ -1,0 +1,6 @@
+
+- CTDNE
+
+---- Read the filtered data by changing the path to the directory where the filtered file is stored after preprocessing
+---- Install necessary libraries as per in the python file
+---- MRR and Recall@10 will be shown on screen for the generated recommendations

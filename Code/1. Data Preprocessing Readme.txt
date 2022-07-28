@@ -1,0 +1,4 @@
+- Reading data and filtering data
+---- Download electronics rating data from this link - http://jmcauley.ucsd.edu/data/amazon/
+---- Set path variable to the directory where the ratings file is stored
+---- Change the path to where you want to sae the output files
